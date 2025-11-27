@@ -22,3 +22,11 @@ for commit in commits:
 ```shell
 docker run --rm -it -p 4040:4040 -p 8888:8888 -v "${PWD}":/home/jovyan quay.io/jupyter/pyspark-notebook
 ```
+
+## Convert `ipynb` to `py` and back
+```shell
+jupyter nbconvert --to python notebook.ipynb 
+```
+```shell
+jupytext --to-notebook notebook-script.py
+```

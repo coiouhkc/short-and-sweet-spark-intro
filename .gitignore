@@ -777,3 +777,19 @@ obj/
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/java,node,macos,maven,gradle,kotlin,android,angular,intellij,intellij+all,intellij+iml,androidstudio,visualstudiocode,spark,jupyternotebooks
+
+
+# Custom
+
+### Jupyter
+.ipython/
+.jupyter/
+.local/
+
+### data
+commits/
+emails/
+*.txt
+*.csv
+
+# End of custom
