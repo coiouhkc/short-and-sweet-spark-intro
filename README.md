@@ -68,6 +68,10 @@ https://www.databricks.com/spark/comparing-databricks-to-apache-spark
 
 ---
 
+# Spark UI
+
+---
+
 # Links
 * https://spark.apache.org/
 * https://github.com/databricks/LearningSparkV2
