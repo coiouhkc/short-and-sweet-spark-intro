@@ -781,10 +781,16 @@ obj/
 
 # Custom
 
+### Bash/shell (due to volume mapping)
+.bash_history
+
 ### Jupyter
 .ipython/
 .jupyter/
 .local/
+
+### Matplotlib
+.config/matplotlib
 
 ### data
 commits/
