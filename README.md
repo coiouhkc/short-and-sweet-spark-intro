@@ -77,4 +77,10 @@ https://www.databricks.com/spark/comparing-databricks-to-apache-spark
 
 ---
 
+# More links
+
+* https://www.kubeflow.org/docs/components/spark-operator/user-guide/writing-sparkapplication/
+
+---
+
 # Q&A
